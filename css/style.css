@@ -465,7 +465,7 @@ border: 2px solid #fff;
 }
 
 .c-logo-part{
-	background:#7cc576;
+	/*background:#7cc576;*/
 	padding:25px 0;
     filter: alpha(opacity=60);
 }
@@ -475,13 +475,14 @@ border: 2px solid #fff;
 	list-style:none;
 	text-align:center;
 }
+
 .c-logo-part ul li{
 	display:inline;
-	margin:0 25px;
+	margin:0 0 25px 0;
 }
-.c-logo-part ul a{
+.c-logo-part ul img{
 	display:inline-block;
-	margin: 0 20px;
+	margin: 0 0 25px 0;
 }
 .main-section.team{
 	padding:85px 0;
